@@ -8,6 +8,7 @@ To add a new post to the site
 - Commit and  Push
 
 > Best to do one post at a time
+
 > Webhook event is configured to hit site server and fetch post details
 
 ## Post markdown must follow format
@@ -33,6 +34,7 @@ To add a new project to the site
 - Commit and  Push
 
 > Best to do one project at a time
+
 > Webhook event is configured to hit site server and fetch project details
 
 ## Project json format
